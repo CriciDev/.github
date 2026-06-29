@@ -1,4 +1,4 @@
-#Hello World!
+# Hello World!
 
 # Quem somos
 
@@ -26,6 +26,8 @@ Tem várias formas de contribuir:
 Já te agradecemos imensamente por fazer isso
 
 ## Quer crescer com a gente?
-[whatsapp](https://chat.whatsapp.com/BfQopKN9ieVAz20FFwP1mb)
-[Discord](https://discord.gg/XaQhWEucMA)
-[Site](https://criciumadevs.com.br/)
+[whatsapp](https://chat.whatsapp.com/BfQopKN9ieVAz20FFwP1mb) 
+
+[Discord](https://discord.gg/XaQhWEucMA) 
+
+[Site](https://criciumadevs.com.br/) 
